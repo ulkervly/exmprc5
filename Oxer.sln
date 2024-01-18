@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oxer.MVC", "Oxer.MVC\Oxer.MVC.csproj", "{9B3FA76D-2696-45DF-AB08-0E8E3381A368}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oxer.Core", "Oxer.Core\Oxer.Core.csproj", "{DB93C598-F8B1-4B7F-B2C0-FA9A3606A211}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oxer.Data", "Oxer.Data\Oxer.Data.csproj", "{D6D9384E-55FB-4F69-ABB9-D02B00FEEA69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oxer.Business", "Oxer.Business\Oxer.Business.csproj", "{1047B9FD-4BD4-4434-B324-5246F50722B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B3FA76D-2696-45DF-AB08-0E8E3381A368}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B3FA76D-2696-45DF-AB08-0E8E3381A368}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B3FA76D-2696-45DF-AB08-0E8E3381A368}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B3FA76D-2696-45DF-AB08-0E8E3381A368}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB93C598-F8B1-4B7F-B2C0-FA9A3606A211}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB93C598-F8B1-4B7F-B2C0-FA9A3606A211}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB93C598-F8B1-4B7F-B2C0-FA9A3606A211}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB93C598-F8B1-4B7F-B2C0-FA9A3606A211}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6D9384E-55FB-4F69-ABB9-D02B00FEEA69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6D9384E-55FB-4F69-ABB9-D02B00FEEA69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6D9384E-55FB-4F69-ABB9-D02B00FEEA69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6D9384E-55FB-4F69-ABB9-D02B00FEEA69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1047B9FD-4BD4-4434-B324-5246F50722B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1047B9FD-4BD4-4434-B324-5246F50722B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1047B9FD-4BD4-4434-B324-5246F50722B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1047B9FD-4BD4-4434-B324-5246F50722B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CE5AA18-F9A2-4D49-9226-11E2C17EB1C1}
+	EndGlobalSection
+EndGlobal

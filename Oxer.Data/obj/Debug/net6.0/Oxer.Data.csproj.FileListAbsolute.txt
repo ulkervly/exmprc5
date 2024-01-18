@@ -1,0 +1,15 @@
+C:\Users\II novbe\Desktop\prc5\Oxer\Oxer.Data\bin\Debug\net6.0\Oxer.Data.deps.json
+C:\Users\II novbe\Desktop\prc5\Oxer\Oxer.Data\bin\Debug\net6.0\Oxer.Data.dll
+C:\Users\II novbe\Desktop\prc5\Oxer\Oxer.Data\bin\Debug\net6.0\Oxer.Data.pdb
+C:\Users\II novbe\Desktop\prc5\Oxer\Oxer.Data\bin\Debug\net6.0\Oxer.Core.dll
+C:\Users\II novbe\Desktop\prc5\Oxer\Oxer.Data\bin\Debug\net6.0\Oxer.Core.pdb
+C:\Users\II novbe\Desktop\prc5\Oxer\Oxer.Data\obj\Debug\net6.0\Oxer.Data.csproj.AssemblyReference.cache
+C:\Users\II novbe\Desktop\prc5\Oxer\Oxer.Data\obj\Debug\net6.0\Oxer.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\Desktop\prc5\Oxer\Oxer.Data\obj\Debug\net6.0\Oxer.Data.AssemblyInfoInputs.cache
+C:\Users\II novbe\Desktop\prc5\Oxer\Oxer.Data\obj\Debug\net6.0\Oxer.Data.AssemblyInfo.cs
+C:\Users\II novbe\Desktop\prc5\Oxer\Oxer.Data\obj\Debug\net6.0\Oxer.Data.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\Desktop\prc5\Oxer\Oxer.Data\obj\Debug\net6.0\Oxer.Data.csproj.CopyComplete
+C:\Users\II novbe\Desktop\prc5\Oxer\Oxer.Data\obj\Debug\net6.0\Oxer.Data.dll
+C:\Users\II novbe\Desktop\prc5\Oxer\Oxer.Data\obj\Debug\net6.0\refint\Oxer.Data.dll
+C:\Users\II novbe\Desktop\prc5\Oxer\Oxer.Data\obj\Debug\net6.0\Oxer.Data.pdb
+C:\Users\II novbe\Desktop\prc5\Oxer\Oxer.Data\obj\Debug\net6.0\ref\Oxer.Data.dll
